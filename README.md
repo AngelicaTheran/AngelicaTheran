@@ -18,6 +18,8 @@
 - 😄 Mi sitio web: en proceso...
 - ⚡ Dato Curioso: Me encanta la comida asiatica 
 
+![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelicaTheran&show_icons=true&theme=radical)
+
 
 ### 🔨 Lenguajes y herramientas:
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
@@ -28,7 +30,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 
-![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelicaTheran&show_icons=true&theme=radical)
+
 
 
 
