@@ -7,7 +7,7 @@
 
 ### Soy una chica que recien empieza en el mundo del codigo, emocionada, fascinada con todo lo que he aprendido y a la expectavida de los nuevos retos que vendrán.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="340px"/>
 
 
 
