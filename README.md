@@ -7,8 +7,7 @@
 
 ### Soy una chica que recien empieza en el mundo del codigo, emocionada, fascinada con todo lo que he aprendido y a la expectavida de los nuevos retos que vendrán.
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="340px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="360px"/>
 
 
 
@@ -25,6 +24,7 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
 ![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelicaTheran&show_icons=true&theme=radical)
 
 
